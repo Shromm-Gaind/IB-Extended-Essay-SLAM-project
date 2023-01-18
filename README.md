@@ -1,4 +1,6 @@
-# Code written for IB Extended Essay on to what extent is sensor fusion SLAM better than passive slam algorthims at autonomous navigation
+# ROS SLAM research project
+
+Code written for IB Extended Essay on to what extent is sensor fusion SLAM better than passive slam algorthims at autonomous navigation
 
 This repository was designed for analyzing data from LIDAR, ZED camera, IMU and also has modules for sensor fusion with EKF and PF based on ROS
 
